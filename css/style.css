@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 15px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 50px;
+    color: crimson;
+    border-radius: 4px;
+    
+}
+.me{
+    height: 100px;
+    width: 100px;
+    margin-right: 50px;
+
+}
+
+
+
+.h1{font-size: medium;
+   
+    
+
+
+}
+
+
+td{
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+td:hover{
+    background-image: url(../img/download.jpeg1.jpeg);
+    transition: 5s;
+}
